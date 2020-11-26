@@ -1,0 +1,16 @@
+#mi-x-test {
+    display: inline-block !important;
+    
+    max-width: 100%;
+    max-height: inherit;
+   
+}
+
+img {
+   
+   
+    border-style: none;
+    max-width: 100%;
+    max-height: inherit;
+    /*   display: none;*/
+}
